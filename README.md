@@ -1,5 +1,6 @@
 # myblog
 
+"""
 ----------------- //telegraf set up ---test arista gnmi
  [[outputs.influxdb_v2]]
   ## The URLs of the InfluxDB cluster nodes.
@@ -213,6 +214,6 @@ grafana support expressions and transformation, by which can restructure the dat
 
 =====================================
 will update again when I learn something new ......
-
+"""
 
 
